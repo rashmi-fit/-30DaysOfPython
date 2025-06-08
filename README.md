@@ -11,3 +11,4 @@ This repo is a collection of refreshed fundamentals that complement my daily Pyt
 - Day 0️⃣8️⃣: Object-Oriented Programming (Part 1) (Classes, objects, methods, attributes)
 - Day 0️⃣9️⃣: Object-Oriented Programming (Part 2) ( Inheritance, polymorphism)
 - Day 1️⃣0️⃣: Exception Handling
+- Day 1️⃣1️⃣: Working with Dates and Times
