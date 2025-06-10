@@ -13,3 +13,4 @@ This repo is a collection of refreshed fundamentals that complement my daily Pyt
 - Day 1️⃣0️⃣: Exception Handling
 - Day 1️⃣1️⃣: Working with Dates and Times
 - Day 1️⃣2️⃣: Regular Expressions
+- Day 1️⃣3️⃣: Data Structures (Stacks, queues (implementation with lists))
