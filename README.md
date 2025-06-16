@@ -17,4 +17,4 @@ This repo is a collection of refreshed fundamentals that complement my daily Pyt
 - Day 1️⃣4️⃣: Recursion
 - Day 1️⃣5️⃣: Decorators (-  Function decorators, use cases (e.g., timing))
 - Day 1️⃣6️⃣: Generators and Iterators (yield, iterators, lazy evaluation)
-- 
+- Day 1️⃣7️⃣: Context Managers ( with statements, custom context managers)
