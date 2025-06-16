@@ -16,3 +16,5 @@ This repo is a collection of refreshed fundamentals that complement my daily Pyt
 - Day 1️⃣3️⃣: Data Structures (Stacks, queues (implementation with lists))
 - Day 1️⃣4️⃣: Recursion
 - Day 1️⃣5️⃣: Decorators (-  Function decorators, use cases (e.g., timing))
+- Day 1️⃣6️⃣: Generators and Iterators (yield, iterators, lazy evaluation)
+- 
