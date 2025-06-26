@@ -4,8 +4,8 @@ with open("/Users/rmn7591/Documents/Repositories/-30DaysOfPython/season3/WebScra
     content = file.read()
 
     soup = BeautifulSoup(content, 'lxml')
-    print(soup)
-
-    courses_html_tags = soup.find_all('h5')
-
-    print(courses_html_tags)
+    course_cards = soup.find_all('div', class_ = 'card')
+    for courses in course_cards:
+       course_name = courses.h5.text
+       courses_price = courses.a.text.split()[-1]
+       print(f'{course_name} costs {courses_price}')
